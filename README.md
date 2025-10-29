@@ -2,3 +2,4 @@
 .env = Ap-voc
 .utils
 .config
+.JWT
