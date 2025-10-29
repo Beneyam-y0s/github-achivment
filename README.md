@@ -3,3 +3,4 @@
 .utils
 .config
 .JWT
+.json
